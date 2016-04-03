@@ -1,0 +1,80 @@
+# Translation of Stable (latest release) in Russian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-03 19:19+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Project-Id-Version: Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Systemo <s@systemo.biz>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+
+#: includes/cli/class-wc-cli-product.php:288
+#: includes/cli/class-wc-cli-product.php:537
+msgid "Invalid product \"%s\""
+msgstr "Некорректный продукт \"%s\""
+
+#: templates/single-product/related.php:50
+msgid "Related Products"
+msgstr "Похожие предложения"
+
+#: includes/admin/class-wc-admin-pointers.php:73
+#: templates/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr "Описание продукта"
+
+#: includes/admin/class-wc-admin-pointers.php:74
+msgid "This is your products main body of content. Here you should describe your product in detail."
+msgstr "Это основной блок информации ваших продуктах. Здесь вы можете расписать ваш продукт в деталях."
+
+#: includes/admin/class-wc-admin-pointers.php:89
+msgid "Choose Product Type"
+msgstr "Выберите тип продукта"
+
+#: includes/admin/class-wc-admin-pointers.php:90
+msgid "Choose a type for this product. Simple is suitable for most physical goods and services (we recommend setting up a simple product for now)."
+msgstr "Выберите тип этого продукта. Простой подходит для большинства физических товаров и услуг (сейчас мы рекомендуем вам настроить простой продукт)."
+
+#: includes/admin/class-wc-admin-pointers.php:91
+msgid "Variable is for more complex products such as t-shirts with multiple sizes."
+msgstr "Вариативный это более сложный продукт, как футболки, имеющие разные размеры."
+
+#: includes/admin/class-wc-admin-pointers.php:108
+msgid "Virtual Products"
+msgstr "Виртуальные продукты"
+
+#: includes/admin/class-wc-admin-pointers.php:124
+#: includes/admin/settings/class-wc-settings-products.php:47
+#: includes/admin/settings/class-wc-settings-products.php:364
+msgid "Downloadable Products"
+msgstr "Загружаемые продукты"
+
+#: includes/admin/class-wc-admin-pointers.php:168
+#: includes/admin/settings/class-wc-settings-products.php:176
+msgid "Product Images"
+msgstr "Изображения Продукта"
+
+#: includes/admin/class-wc-admin-pointers.php:180
+#: includes/class-wc-post-types.php:98 includes/class-wc-post-types.php:100
+#: includes/widgets/class-wc-widget-product-tag-cloud.php:29
+msgid "Product Tags"
+msgstr "Метки продуктов"
+
+#: includes/admin/class-wc-admin-pointers.php:192
+#: includes/class-wc-post-types.php:63 includes/class-wc-post-types.php:65
+#: includes/widgets/class-wc-widget-product-categories.php:43
+msgid "Product Categories"
+msgstr "Категории Продуктов"
+
+#: includes/admin/class-wc-admin-pointers.php:204
+msgid "Publish Your Product!"
+msgstr "Опубликуйте ваш Продукт!"
+
+#: includes/admin/class-wc-admin-post-types.php:125
+msgid "Product updated."
+msgstr "Продукт обновлен."
