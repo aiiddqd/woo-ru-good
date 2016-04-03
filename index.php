@@ -19,7 +19,6 @@ function add_mofile_woocommerce(){
 
   $path = dirname( plugin_basename( __FILE__ ) ) . '/inc/';
 	load_plugin_textdomain( 'woocommerce', false, $path );
-  var_dump($path);
 
 
 }
