@@ -78,3 +78,30 @@ msgstr "Опубликуйте ваш Продукт!"
 #: includes/admin/class-wc-admin-post-types.php:125
 msgid "Product updated."
 msgstr "Продукт обновлен."
+
+
+
+#: includes/admin/reports/class-wc-report-stock.php:44
+msgid "No products found."
+msgstr "Продукты не найдены."
+
+#: includes/admin/reports/class-wc-report-stock.php:148
+msgid "product"
+msgstr "продукт"
+
+
+
+#: includes/admin/reports/class-wc-report-stock.php:164
+#: includes/class-wc-post-types.php:240 templates/cart/cart.php:35
+#: templates/cart/cart.php:77 templates/checkout/form-pay.php:28
+#: templates/checkout/review-order.php:25
+#: templates/emails/email-order-details.php:33
+#: templates/order/order-details.php:31
+msgid "Product"
+msgstr "Продукт"
+
+
+#: includes/admin/class-wc-admin-permalink-settings.php:104
+msgctxt "default-slug"
+msgid "product"
+msgstr "product"
